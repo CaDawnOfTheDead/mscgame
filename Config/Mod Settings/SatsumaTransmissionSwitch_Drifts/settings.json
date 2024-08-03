@@ -1,0 +1,9 @@
+{
+  "settings": [
+    {
+      "ID": "STS_allowGuiText",
+      "Value": true
+    }
+  ],
+  "isDisabled": false
+}

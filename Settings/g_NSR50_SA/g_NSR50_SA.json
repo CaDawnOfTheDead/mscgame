@@ -1,0 +1,48 @@
+{
+  "Enabled": true,
+  "Keybinds": [],
+  "Numbers": [],
+  "Booleans": [
+    {
+      "id": "cowl_U",
+      "value": true
+    },
+    {
+      "id": "cowl_L",
+      "value": true
+    },
+    {
+      "id": "mirror_R",
+      "value": true
+    },
+    {
+      "id": "mirror_L",
+      "value": true
+    },
+    {
+      "id": "Dirty",
+      "value": true
+    },
+    {
+      "id": "EngineStall",
+      "value": true
+    },
+    {
+      "id": "EasyHandling",
+      "value": false
+    },
+    {
+      "id": "tankbagOpenClose",
+      "value": true
+    },
+    {
+      "id": "BeeDeath",
+      "value": true
+    },
+    {
+      "id": "DiscoloredMirrorFix",
+      "value": false
+    }
+  ],
+  "Strings": []
+}

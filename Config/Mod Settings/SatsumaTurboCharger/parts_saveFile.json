@@ -1,0 +1,442 @@
+{
+  "manifold-weberCarb": {
+    "installed": true,
+    "bought": 1,
+    "screws": [
+      {
+        "tightness": 8
+      },
+      {
+        "tightness": 8
+      },
+      {
+        "tightness": 8
+      },
+      {
+        "tightness": 8
+      }
+    ],
+    "position": {
+      "x": 1551.2854,
+      "y": 5.182142,
+      "z": 730.038757
+    },
+    "rotation": {
+      "x": -0.0889040455,
+      "y": -0.822477937,
+      "z": -0.128334492,
+      "w": 0.546952
+    }
+  },
+  "manifold-twinCarb": {
+    "installed": false,
+    "bought": 1,
+    "screws": [
+      {
+        "tightness": 0
+      }
+    ],
+    "position": {
+      "x": 1556.02466,
+      "y": 4.80999327,
+      "z": 738.9469
+    },
+    "rotation": {
+      "x": 6.04396155E-06,
+      "y": -0.854656041,
+      "z": -9.832246E-06,
+      "w": -0.5191948
+    }
+  },
+  "boost-gauge": {
+    "installed": true,
+    "bought": 1,
+    "screws": [
+      {
+        "tightness": 8
+      }
+    ],
+    "position": {
+      "x": 1550.67664,
+      "y": 5.48448753,
+      "z": 730.1916
+    },
+    "rotation": {
+      "x": -0.00588370441,
+      "y": -0.8323856,
+      "z": -0.00354699465,
+      "w": 0.5541545
+    }
+  },
+  "intercooler": {
+    "installed": true,
+    "bought": 1,
+    "screws": [
+      {
+        "tightness": 8
+      },
+      {
+        "tightness": 8
+      }
+    ],
+    "position": {
+      "x": 1551.83044,
+      "y": 4.82183266,
+      "z": 730.279358
+    },
+    "rotation": {
+      "x": -0.0300499778,
+      "y": -0.8314386,
+      "z": -0.03985177,
+      "w": 0.5533703
+    }
+  },
+  "intercooler-manifold-weberCarb-tube": {
+    "installed": true,
+    "bought": 1,
+    "screws": [
+      {
+        "tightness": 8
+      },
+      {
+        "tightness": 8
+      }
+    ],
+    "position": {
+      "x": 1551.35913,
+      "y": 5.04173,
+      "z": 730.4663
+    },
+    "rotation": {
+      "x": -0.00563227246,
+      "y": -0.832424,
+      "z": -0.0031756172,
+      "w": 0.5541017
+    }
+  },
+  "intercooler-manifold-twinCarb-tube": {
+    "installed": false,
+    "bought": 1,
+    "screws": [
+      {
+        "tightness": 0
+      }
+    ],
+    "position": {
+      "x": 1554.1366,
+      "y": 4.75183249,
+      "z": 737.3653
+    },
+    "rotation": {
+      "x": -0.5929519,
+      "y": -0.327894658,
+      "z": -0.732410669,
+      "w": -0.066842556
+    }
+  },
+  "exhaust-header": {
+    "installed": true,
+    "bought": 1,
+    "screws": [
+      {
+        "tightness": 8
+      },
+      {
+        "tightness": 8
+      },
+      {
+        "tightness": 8
+      },
+      {
+        "tightness": 8
+      },
+      {
+        "tightness": 8
+      }
+    ],
+    "position": {
+      "x": 1551.4231,
+      "y": 5.053461,
+      "z": 730.1024
+    },
+    "rotation": {
+      "x": -0.00466514938,
+      "y": -0.8324283,
+      "z": -0.00172272138,
+      "w": 0.5541107
+    }
+  },
+  "turboBig-exhaust-inlet-tube": {
+    "installed": true,
+    "bought": 1,
+    "screws": [
+      {
+        "tightness": 8
+      },
+      {
+        "tightness": 8
+      }
+    ],
+    "position": {
+      "x": 1551.42175,
+      "y": 5.03288841,
+      "z": 729.848267
+    },
+    "rotation": {
+      "x": -0.00466514938,
+      "y": -0.8324283,
+      "z": -0.00172272138,
+      "w": 0.5541107
+    }
+  },
+  "turboBig-intercooler-tube": {
+    "installed": true,
+    "bought": 1,
+    "screws": [
+      {
+        "tightness": 8
+      }
+    ],
+    "position": {
+      "x": 1551.73645,
+      "y": 5.02387238,
+      "z": 729.863342
+    },
+    "rotation": {
+      "x": -0.005883704,
+      "y": -0.8323856,
+      "z": -0.00354699348,
+      "w": 0.5541544
+    }
+  },
+  "turboBig-blowoff-valve": {
+    "installed": true,
+    "bought": 1,
+    "screws": [
+      {
+        "tightness": 8
+      }
+    ],
+    "position": {
+      "x": 1551.58459,
+      "y": 5.16505957,
+      "z": 729.827759
+    },
+    "rotation": {
+      "x": -0.323976,
+      "y": -0.7667724,
+      "z": 0.208788708,
+      "w": 0.513329268
+    }
+  },
+  "turboBig-hood": {
+    "installed": true,
+    "bought": 1,
+    "screws": [
+      {
+        "tightness": 8
+      },
+      {
+        "tightness": 8
+      },
+      {
+        "tightness": 8
+      },
+      {
+        "tightness": 8
+      }
+    ],
+    "position": {
+      "x": 1551.83826,
+      "y": 5.224573,
+      "z": 730.2801
+    },
+    "rotation": {
+      "x": -0.00588409463,
+      "y": -0.8323856,
+      "z": -0.00354747,
+      "w": 0.5541543
+    }
+  },
+  "turboBig": {
+    "installed": true,
+    "bought": 1,
+    "screws": [
+      {
+        "tightness": 8
+      }
+    ],
+    "position": {
+      "x": 1551.52429,
+      "y": 5.320098,
+      "z": 729.816956
+    },
+    "rotation": {
+      "x": -0.00466514938,
+      "y": -0.8324283,
+      "z": -0.00172272138,
+      "w": 0.5541107
+    }
+  },
+  "turboBig-exhaust-outlet-tube": {
+    "installed": true,
+    "bought": 1,
+    "screws": [
+      {
+        "tightness": 8
+      },
+      {
+        "tightness": 8
+      },
+      {
+        "tightness": 8
+      },
+      {
+        "tightness": 8
+      }
+    ],
+    "position": {
+      "x": 1551.36987,
+      "y": 5.156435,
+      "z": 729.752136
+    },
+    "rotation": {
+      "x": -0.00466514938,
+      "y": -0.8324283,
+      "z": -0.00172272138,
+      "w": 0.5541107
+    }
+  },
+  "turboBig-exhaust-outlet-straight-tube": {
+    "installed": false,
+    "bought": 1,
+    "screws": [
+      {
+        "tightness": 0
+      },
+      {
+        "tightness": 0
+      },
+      {
+        "tightness": 0
+      },
+      {
+        "tightness": 0
+      }
+    ],
+    "position": {
+      "x": 1555.26917,
+      "y": 5.524412,
+      "z": 737.089
+    },
+    "rotation": {
+      "x": 0.5051324,
+      "y": -0.6605928,
+      "z": 0.465971172,
+      "w": -0.302207619
+    }
+  },
+  "turboSmall-exhaust-inlet-tube": {
+    "installed": false,
+    "bought": 1,
+    "screws": [
+      {
+        "tightness": 0
+      },
+      {
+        "tightness": 0
+      }
+    ],
+    "position": {
+      "x": 1556.75024,
+      "y": 4.728828,
+      "z": 736.540466
+    },
+    "rotation": {
+      "x": -0.8394246,
+      "y": 0.06826877,
+      "z": 0.289273977,
+      "w": -0.455001384
+    }
+  },
+  "turboSmall": {
+    "installed": false,
+    "bought": 1,
+    "screws": [
+      {
+        "tightness": 0
+      }
+    ],
+    "position": {
+      "x": 1554.84717,
+      "y": 5.544033,
+      "z": 737.813538
+    },
+    "rotation": {
+      "x": 0.6911476,
+      "y": -0.149562329,
+      "z": -0.149515912,
+      "w": -0.691079736
+    }
+  },
+  "turboSmall-intercooler-tube": {
+    "installed": false,
+    "bought": 1,
+    "screws": [
+      {
+        "tightness": 0
+      }
+    ],
+    "position": {
+      "x": 1555.18945,
+      "y": 5.506464,
+      "z": 737.7676
+    },
+    "rotation": {
+      "x": 0.0357878543,
+      "y": -0.0740281045,
+      "z": -0.8938822,
+      "w": 0.440696925
+    }
+  },
+  "turboSmall-airfilter": {
+    "installed": false,
+    "bought": 1,
+    "screws": [
+      {
+        "tightness": 0
+      }
+    ],
+    "position": {
+      "x": 1566.03308,
+      "y": 4.63476229,
+      "z": 738.685
+    },
+    "rotation": {
+      "x": 0.33187452,
+      "y": -0.6244001,
+      "z": -0.624381065,
+      "w": -0.331861764
+    }
+  },
+  "turboSmall-exhaust-outlet-tube": {
+    "installed": false,
+    "bought": 1,
+    "screws": [
+      {
+        "tightness": 0
+      }
+    ],
+    "position": {
+      "x": 1554.97607,
+      "y": 4.737543,
+      "z": 736.618164
+    },
+    "rotation": {
+      "x": -0.412548184,
+      "y": -0.8816056,
+      "z": 0.0439923331,
+      "w": -0.225034177
+    }
+  }
+}

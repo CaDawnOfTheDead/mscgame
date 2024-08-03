@@ -1,0 +1,149 @@
+{
+  "settings": [
+    {
+      "ID": "AG_Windowed",
+      "Value": false
+    },
+    {
+      "ID": "AG_Resolution",
+      "Value": 23
+    },
+    {
+      "ID": "AG_Quality",
+      "Value": 4
+    },
+    {
+      "ID": "AG_Antialiasing",
+      "Value": true
+    },
+    {
+      "ID": "AG_Bloom",
+      "Value": false
+    },
+    {
+      "ID": "AG_Reflections",
+      "Value": true
+    },
+    {
+      "ID": "AG_sunshafts",
+      "Value": true
+    },
+    {
+      "ID": "AG_contrast",
+      "Value": false
+    },
+    {
+      "ID": "AG_hdr",
+      "Value": true
+    },
+    {
+      "ID": "AG_fog",
+      "Value": true
+    },
+    {
+      "ID": "AG_toneMapping",
+      "Value": true
+    },
+    {
+      "ID": "AG_brightness",
+      "Value": 1.0
+    },
+    {
+      "ID": "AG_renderPath",
+      "Value": 4
+    },
+    {
+      "ID": "AG_occlusionC",
+      "Value": true
+    },
+    {
+      "ID": "AG_AAType",
+      "Value": 1
+    },
+    {
+      "ID": "AG_bloomThreshold",
+      "Value": 0.25
+    },
+    {
+      "ID": "AG_bloomIntensity",
+      "Value": 0.75
+    },
+    {
+      "ID": "AG_bloomBlurSize",
+      "Value": 1.0
+    },
+    {
+      "ID": "AG_bloomBlurIterations",
+      "Value": 1
+    },
+    {
+      "ID": "AG_sunSkybox",
+      "Value": true
+    },
+    {
+      "ID": "AG_shaftsMaxRadius",
+      "Value": 1.0
+    },
+    {
+      "ID": "AG_shaftsBlurSize",
+      "Value": 0.31
+    },
+    {
+      "ID": "AG_shaftsBlurIterations",
+      "Value": 3
+    },
+    {
+      "ID": "AG_shaftsIntensity",
+      "Value": 1.79
+    },
+    {
+      "ID": "AG_sunShadowType",
+      "Value": 2
+    },
+    {
+      "ID": "AG_sunShadowStrength",
+      "Value": 1.0
+    },
+    {
+      "ID": "AG_sunShadowBias",
+      "Value": 0.08
+    },
+    {
+      "ID": "AG_sunShadowNormalBias",
+      "Value": 1.1
+    },
+    {
+      "ID": "AG_contrastIntensity",
+      "Value": 0.5
+    },
+    {
+      "ID": "AG_contrastThreshold",
+      "Value": 0.0
+    },
+    {
+      "ID": "AG_contrastBlurSpread",
+      "Value": 1.0
+    },
+    {
+      "ID": "AG_lightShadowType",
+      "Value": 2
+    },
+    {
+      "ID": "AG_lightShadowStrength",
+      "Value": 0.85
+    },
+    {
+      "ID": "AG_lightShadowBias",
+      "Value": 0.05
+    },
+    {
+      "ID": "AG_lightShadowNormalBias",
+      "Value": 1.0
+    },
+    {
+      "ID": "AG_waterQuality",
+      "Value": 2
+    }
+  ],
+  "isDisabled": false
+}

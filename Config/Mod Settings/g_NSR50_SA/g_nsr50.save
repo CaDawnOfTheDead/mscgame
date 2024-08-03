@@ -1,0 +1,99 @@
+{
+  "save": [
+    {
+      "version": 1.5,
+      "build": 3,
+      "fuel": 5.0,
+      "pos": {
+        "x": -13.5705872,
+        "y": -0.2728604,
+        "z": 12.6321793,
+        "normalized": {
+          "x": -0.7318821,
+          "y": -0.0147157712,
+          "z": 0.6812724,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 18.54204,
+        "sqrMagnitude": 343.807251
+      },
+      "rotX": 354.69516,
+      "rotY": 349.439026,
+      "rotZ": 93.33856,
+      "fueltap": 0
+    }
+  ],
+  "saveDataParts": [
+    {
+      "number": 1,
+      "name": "Tank Bag(g1234)",
+      "pos": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "rotX": 0.0,
+      "rotY": 0.0,
+      "rotZ": 0.0,
+      "isLidOpen": false,
+      "Lid_rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    },
+    {
+      "number": 0,
+      "name": "Tank Bag(g0000)",
+      "pos": {
+        "x": -13.0765181,
+        "y": -0.499162585,
+        "z": 11.6586447,
+        "normalized": {
+          "x": -0.746111631,
+          "y": -0.0284809,
+          "z": 0.6652115,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 17.5262222,
+        "sqrMagnitude": 307.1685
+      },
+      "rotX": 270.0,
+      "rotY": 262.178223,
+      "rotZ": 0.0,
+      "isLidOpen": false,
+      "Lid_rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      }
+    }
+  ],
+  "save_gBike": [
+    {
+      "name": "tankBag",
+      "attach": false
+    },
+    {
+      "name": "stand_F1",
+      "attach": false
+    },
+    {
+      "name": "stand_F3",
+      "attach": false
+    },
+    {
+      "name": "stand_R1",
+      "attach": false
+    }
+  ],
+  "objectsInTankBag": []
+}

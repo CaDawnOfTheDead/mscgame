@@ -1,0 +1,54 @@
+{
+  "keybinds": [
+    {
+      "ID": "ShowGUI",
+      "Key": 99,
+      "Modifier": 306
+    },
+    {
+      "ID": "pause",
+      "Key": 0,
+      "Modifier": 0
+    },
+    {
+      "ID": "screenshot",
+      "Key": 308,
+      "Modifier": 306
+    },
+    {
+      "ID": "noclip",
+      "Key": 0,
+      "Modifier": 0
+    },
+    {
+      "ID": "FlyMoveF",
+      "Key": 119,
+      "Modifier": 0
+    },
+    {
+      "ID": "FlyMoveB",
+      "Key": 115,
+      "Modifier": 0
+    },
+    {
+      "ID": "FlyMoveL",
+      "Key": 97,
+      "Modifier": 0
+    },
+    {
+      "ID": "FlyMoveR",
+      "Key": 100,
+      "Modifier": 0
+    },
+    {
+      "ID": "FlyMoveU",
+      "Key": 32,
+      "Modifier": 0
+    },
+    {
+      "ID": "FlyMoveD",
+      "Key": 304,
+      "Modifier": 0
+    }
+  ]
+}

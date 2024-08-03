@@ -1,0 +1,12 @@
+{
+  "Enabled": true,
+  "Keybinds": [],
+  "Numbers": [
+    {
+      "id": "ShowBoltSizeInfo",
+      "value": 3.0
+    }
+  ],
+  "Booleans": [],
+  "Strings": []
+}

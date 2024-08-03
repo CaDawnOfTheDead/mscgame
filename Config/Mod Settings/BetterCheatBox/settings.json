@@ -1,0 +1,13 @@
+{
+  "settings": [
+    {
+      "ID": "superSize",
+      "Value": 1
+    },
+    {
+      "ID": "BCBAnimatedIcon",
+      "Value": true
+    }
+  ],
+  "isDisabled": false
+}

@@ -1,0 +1,9 @@
+{
+  "keybinds": [
+    {
+      "ID": "screw-placement-select-part",
+      "Key": 275,
+      "Modifier": 0
+    }
+  ]
+}

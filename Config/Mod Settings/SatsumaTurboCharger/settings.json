@@ -1,0 +1,29 @@
+{
+  "settings": [
+    {
+      "ID": "debugGuiSetting",
+      "Value": false
+    },
+    {
+      "ID": "rotateTurbineSetting",
+      "Value": true
+    },
+    {
+      "ID": "backfireEffectSetting",
+      "Value": true
+    },
+    {
+      "ID": "turboVolumeSetting",
+      "Value": 100
+    },
+    {
+      "ID": "blowoffVolumeSetting",
+      "Value": 100
+    },
+    {
+      "ID": "backfireVolumeSetting ",
+      "Value": 100
+    }
+  ],
+  "isDisabled": false
+}

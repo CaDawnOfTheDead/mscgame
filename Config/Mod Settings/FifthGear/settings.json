@@ -1,0 +1,49 @@
+{
+  "settings": [
+    {
+      "ID": "gears_4",
+      "Value": false
+    },
+    {
+      "ID": "gears_5",
+      "Value": false
+    },
+    {
+      "ID": "gears_6",
+      "Value": true
+    },
+    {
+      "ID": "quickSetupSliuder",
+      "Value": 0
+    },
+    {
+      "ID": "gear_r",
+      "Value": "-4.093"
+    },
+    {
+      "ID": "gear_1",
+      "Value": "3.342"
+    },
+    {
+      "ID": "gear_2",
+      "Value": "2.017"
+    },
+    {
+      "ID": "gear_3",
+      "Value": "1.318"
+    },
+    {
+      "ID": "gear_4",
+      "Value": "0.91"
+    },
+    {
+      "ID": "gear_5",
+      "Value": "0.774"
+    },
+    {
+      "ID": "gear_6",
+      "Value": "0.646"
+    }
+  ],
+  "isDisabled": false
+}

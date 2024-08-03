@@ -1,0 +1,32 @@
+{
+  "Enabled": true,
+  "Keybinds": [
+    {
+      "id": "reloadTexture",
+      "keybind": 286,
+      "modifiers": []
+    }
+  ],
+  "Numbers": [
+    {
+      "id": "mirrorSlider",
+      "value": 40.0
+    }
+  ],
+  "Booleans": [
+    {
+      "id": "steeringRotation",
+      "value": false
+    },
+    {
+      "id": "lightShadow",
+      "value": false
+    }
+  ],
+  "Strings": [
+    {
+      "id": "FFBMult",
+      "value": "1"
+    }
+  ]
+}

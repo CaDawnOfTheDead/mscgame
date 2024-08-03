@@ -1,0 +1,14 @@
+{
+  "keybinds": [
+    {
+      "ID": "ToggleFlyKey",
+      "Key": 110,
+      "Modifier": 306
+    },
+    {
+      "ID": "showNoclipGui",
+      "Key": 98,
+      "Modifier": 306
+    }
+  ]
+}

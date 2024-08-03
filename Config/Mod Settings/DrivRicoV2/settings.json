@@ -1,0 +1,9 @@
+{
+  "settings": [
+    {
+      "ID": "rustcustom",
+      "Value": false
+    }
+  ],
+  "isDisabled": false
+}

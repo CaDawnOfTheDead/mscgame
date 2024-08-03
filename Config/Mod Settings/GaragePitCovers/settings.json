@@ -1,0 +1,13 @@
+{
+  "settings": [
+    {
+      "ID": "fleetari",
+      "Value": true
+    },
+    {
+      "ID": "home",
+      "Value": false
+    }
+  ],
+  "isDisabled": false
+}

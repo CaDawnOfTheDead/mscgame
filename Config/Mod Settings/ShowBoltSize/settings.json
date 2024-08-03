@@ -1,0 +1,9 @@
+{
+  "settings": [
+    {
+      "ID": "ShowBoltSizeInfo",
+      "Value": 1
+    }
+  ],
+  "isDisabled": false
+}

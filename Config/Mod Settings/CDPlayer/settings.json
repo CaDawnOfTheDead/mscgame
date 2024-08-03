@@ -1,0 +1,25 @@
+{
+  "settings": [
+    {
+      "ID": "cdDisBypass",
+      "Value": true
+    },
+    {
+      "ID": "debugInfo",
+      "Value": false
+    },
+    {
+      "ID": "RDSsim",
+      "Value": true
+    },
+    {
+      "ID": "ch3url",
+      "Value": "http://185.33.21.112:11010"
+    },
+    {
+      "ID": "ch4url",
+      "Value": "http://185.33.21.112/90s_128"
+    }
+  ],
+  "isDisabled": false
+}

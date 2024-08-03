@@ -1,0 +1,1 @@
+Place a mp3 file called "Ringtone" in this folder and restart the game to load your custom ringtone.
